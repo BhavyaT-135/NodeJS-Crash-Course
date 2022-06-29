@@ -1,0 +1,42 @@
+Node is a runtime environment for JavaScript.
+
+It essentially allows us to run JavaScript code on the server.
+
+Pre-requisites:
+-HTTP
+-JSON
+-Arrow Functions
+-Promises
+-MVC Pattern (Model-View-Controller)
+--------------------------------------------------------------------------------------------------------------------
+
+Why Use Node?
+
+* Fast, efficient and highly scalable
+* Event driven, non-blocking I/O Model
+* Popular in the industry
+* Same language on the front and back end (JS)
+--------------------------------------------------------------------------------------------------------------------
+
+NodeJS is non-blocking and asynchronous:
+ 
+* Works on a single thread using non-bloccking I/O calls.
+* Supports tens of thousands of concurrent connections.
+* Optimizes throughput and scalability in apps with many I/O operations.
+* All of this makes Node.js apps very fast and efficient.
+--------------------------------------------------------------------------------------------------------------------
+
+Node's Event Loop:
+* Single threaded 
+* Supports concurrency via events and callbacks
+* EventEmitter class is used to bind events and listeners
+--------------------------------------------------------------------------------------------------------------------
+
+Best Types of Projects for Node:
+* REST API and Microservices
+* Real Time Services (Chat, Live Updates)
+* CRUD Apps - Blogs, Shopping Carts, Social Networks
+* Tools and Utilities
+--------------------------------------------------------------------------------------------------------------------
+
+NPM is NodeJS's package manager
