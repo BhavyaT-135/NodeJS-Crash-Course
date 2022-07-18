@@ -1,6 +1,6 @@
 # NodeJS Crash Course 🎯
 
-*Techniques used in this course: Node*
+*Techniques used in this course: NodeJS*
 
 📌 Exploring NodeJS fundamentals including built-in modules like path, fs, os, etc.
 
